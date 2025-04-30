@@ -1,6 +1,6 @@
 # COMINT
 
-[IMG_3364.jpg!]
+![KrakenSDR](https://github.com/stratas-data/COMINT/blob/main/IMG_3364.jpg)
 
 Radio frequency and traffic analysis
 
