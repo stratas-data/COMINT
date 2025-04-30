@@ -1,4 +1,7 @@
 # COMINT
+
+[IMG_3364.jpg!]
+
 Radio frequency and traffic analysis
 
 This Python script is a example component of a broader research and development pipeline designed to extract structured intelligence from Software Defined Radio (SDR) transmissions. It integrates audio transcription (via OpenAI Whisper), frequency-to-agency contextual mapping, and geographic toponym verification using OpenStreetMap data. The script supports downstream tasks like determining the "Who, What, When, Where" (4W) from voice communications intercepted through SDR monitoring.
