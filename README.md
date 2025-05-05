@@ -9,15 +9,23 @@ The attached Python script is a example component of a broader research and deve
 
 The following summary of a transmission was generated in approximately twenty seconds. In this example, OpenStreeMap's API and cascading logic was used, which delivered toponym disambiguations an analyst can use to quickly know the exact location of the event:
 > who: nil,
+
 > what: Issues with traffic light not functioning properly, will call for tech support.,
+
 > when: Last 10 minutes,
+
 > where:
+
 >   toponym: Brookshire's,
+
 >   verified: true,
+
 >   note: Wise County is the nearest relevant county to 'Brookshire's' (33.2249552, -97.7547486), distance: 9.65 km.
    
 >   toponym: Whataburger,
+
 >   verified: true,
+
 >   note: Wise County is the nearest relevant county to 'Whataburger' (33.2303451, -97.5956807), distance: 5.62 km.
 
 ###Features:
