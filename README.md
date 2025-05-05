@@ -30,23 +30,23 @@ The following summary of a transmission was generated in approximately twenty se
 
 ### Features:
 
-Automatic transcription of audio transmissions using Whisper (large-v2, CUDA-enabled).
+- Automatic transcription of audio transmissions using Whisper (large-v2, CUDA-enabled)
 
-Contextual metadata extraction from local and national frequency databases.
+- Contextual metadata extraction from local and national frequency databases
 
-Toponym verification using the Overpass API against OpenStreetMap’s hierarchical regions.
+- Toponym verification using the Overpass API against OpenStreetMap’s hierarchical regions
 
-Geospatial proximity analysis to associate ambiguous toponyms with relevant jurisdictions.
+- Geospatial proximity analysis to associate ambiguous toponyms with relevant jurisdictions
 
-Pydantic models for validated, structured data handling.
+- Pydantic models for validated, structured data handling
 
 ### Planned Integrations:
 
-Real-time input from live SDR streams.
+- Real-time input from live SDR streams
 
-Direction-finding modules for triangulating transmission origins.
+- Direction-finding modules for triangulating transmission origins
 
-LLM-based post-processing of summaries in context with one another.
+- LLM-based post-processing of summaries in context with one another
 
 ### Technologies used:
 
