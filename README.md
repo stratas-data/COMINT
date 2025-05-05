@@ -28,7 +28,7 @@ The following summary of a transmission was generated in approximately twenty se
 
 >   note: Wise County is the nearest relevant county to 'Whataburger' (33.2303451, -97.5956807), distance: 5.62 km.
 
-###Features:
+### Features:
 
 Automatic transcription of audio transmissions using Whisper (large-v2, CUDA-enabled).
 
@@ -40,7 +40,7 @@ Geospatial proximity analysis to associate ambiguous toponyms with relevant juri
 
 Pydantic models for validated, structured data handling.
 
-###Planned Integrations:
+### Planned Integrations:
 
 Real-time input from live SDR streams.
 
@@ -48,6 +48,6 @@ Direction-finding modules for triangulating transmission origins.
 
 LLM-based post-processing of summaries in context with one another.
 
-###Technologies used:
+### Technologies used:
 
 Python · Whisper · OpenStreetMap API · Pandas · Geopy · Torch · Pydantic · SDR Metadata
